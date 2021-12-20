@@ -11,7 +11,7 @@ namespace Alura.LeilaoOnline.ConsoleApp
             if (esperado == obtido)
             {
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("TESTE OK.");
+                Console.WriteLine("TESTE OK..");
             }
             else
             {
